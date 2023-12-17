@@ -1,0 +1,21 @@
+{
+  "name": "js-log-colorify",
+  "version": "0.1.0",
+  "description": "Colorify your browser logs",
+  "main": "colorify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AseemAnand001/log-colorify.git"
+  },
+  "keywords": ["console log colors", "colorify", "colorify browser logs"],
+  "author": "Aseem Anand",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AseemAnand001/log-colorify.git"
+  },
+  "homepage": "https://github.com/AseemAnand001/log-colorify.git",
+  "files": ["colorify.js"]
+}
